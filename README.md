@@ -1,8 +1,8 @@
 ## Simple Linear Regression
 
 Simple linear regression is a statistical method that allows us to summarize and study relationships between two continuous variables:
-- One variable, denoted as X, is regarded as the predictor, explanatory, or independent variable.
-- The other variable, denoted as Y, is regarded as the response, outcome, or dependent variable.
+- One variable, denoted as X, the variable being used to make the predictions(independent variable)
+- The other variable, denoted as Y, the variable that is being predicted(dependent variable)
 
 ### Concept
 
@@ -11,6 +11,8 @@ The goal of simple linear regression is to find a linear function that predicts 
 ### Mathematical Representation
 
 The simple linear regression model can be represented by the equation:
+
+Y = mx + c
 
 Y = β₀ + β₁X + ε
 
