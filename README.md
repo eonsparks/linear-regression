@@ -59,4 +59,3 @@ Where X̄ and Ȳ are the means of X and Y respectively.
    - Plot the original data points
    - Plot the regression line
 
-This approach can be easily translated into code using libraries such as NumPy for calculations and Matplotlib for visualization.
